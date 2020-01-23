@@ -130,4 +130,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+venv
+
 # End of https://www.gitignore.io/api/osx,intellij+all,jupyternotebooks
+
